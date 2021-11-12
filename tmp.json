@@ -1,4 +1,4 @@
-{
+[{
     "title": "Badger",
     "description":"Built a discord bot using discord.js, IBM Watson, dialogflow.",
     "image": "/images/badger.png",
@@ -7,4 +7,4 @@
     "source": "https://github.com/GreaZeY/badger-discord-bot",
     "visit": "https://top.gg/bot/609713401777618965",
     "id": 0
-  }
+  }]
